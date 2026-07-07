@@ -1,0 +1,16 @@
+package MainPackage;
+
+public class Array {
+
+    public static void main (String args[])
+    {
+        //Array
+        int arr[] = {23,43,55,66,76,34,12};
+
+        System.out.println("Array Length is : " + arr.length);
+
+
+
+
+    }
+}
