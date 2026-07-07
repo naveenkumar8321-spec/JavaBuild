@@ -9,7 +9,15 @@ public class Array {
 
         System.out.println("Array Length is : " + arr.length);
 
+//        for(int i=0;i<arr.length;i++)
+//        {
+//            System.out.println(arr[i]);
+//        }
 
+        for (int num : arr)
+        {
+            System.out.println(num);
+        }
 
 
     }
