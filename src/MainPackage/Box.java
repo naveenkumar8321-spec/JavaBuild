@@ -14,7 +14,7 @@ public class Box {
         width = w;
         height = h;
 
-        //SSSS
+        //SSTest
     }
     Box(double cube)
     {
